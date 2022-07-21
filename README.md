@@ -6,8 +6,10 @@
 
 
 <br>- 👋 Hi, I’m <i>Sadi Ismayilzade</i>
-- 🌱 I’m currently learning working on <strong>FrontEnd Development<strong>
+- 🌱 I’m currently learning on <strong>FrontEnd Development<strong>
 - 📫 How to reach me <a>sedismayilzade@gmail.com</a>
+
+
   
  
 <!---
