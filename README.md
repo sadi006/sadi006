@@ -1,6 +1,5 @@
 - 👋 Hi, I’m <i>Sadi Ismayilzade</i>
 - 🌱 I’m currently learning working on <strong>FrontEnd Development<strong>
-- 💞️ I’m looking to collaborate on ...
   - 📫 How to reach me <a>sedismayilzade@gmail.com</a>
 
 <!---
