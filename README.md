@@ -1,4 +1,5 @@
-<h1><strong>About me</strong></h1>
+<h1><strong>About me : </strong  a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" data-target="animated-image.originalLink"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="40x&quot;" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></h1>
+
 
 
 <br><animated-image data-catalyst style="width: 400px;">
