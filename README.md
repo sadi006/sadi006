@@ -1,4 +1,4 @@
-<h1><strong>About me : </strong  a target="_blank" rel="noopener noreferrer" href="https://media4.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif?cid=790b7611ebc45af1f4f45031f97690fb3217fd403d89a624&rid=giphy.gif&ct=s" data-target="animated-image.originalLink"><img src="https://media4.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif?cid=790b7611ebc45af1f4f45031f97690fb3217fd403d89a624&rid=giphy.gif&ct=s" height="40x&quot;" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" </h1>
+<h1><strong>About me : </strong  a target="_blank" rel="noopener noreferrer" href="https://media4.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif?cid=790b7611ebc45af1f4f45031f97690fb3217fd403d89a624&rid=giphy.gif&ct=s" data-target="animated-image.originalLink"><img src="https://media4.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif?cid=790b7611ebc45af1f4f45031f97690fb3217fd403d89a624&rid=giphy.gif&ct=s" height="40x&quot;" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"</h1>
 
 
 
