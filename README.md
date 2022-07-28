@@ -21,7 +21,7 @@
                                                              eat();
                                                              sleep();
                                                              code();
-                                                             repeat();  sils
+                                                             repeat(); 
                                                              })();
    </div>
  </div>
