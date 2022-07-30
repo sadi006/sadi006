@@ -17,7 +17,7 @@
    
    
                                                              function
-                                              dd               repeat(){
+                                                             repeat(){
                                                              eat();
                                                              sleep();
                                                              code();
