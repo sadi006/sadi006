@@ -18,7 +18,7 @@
    
                                                              function
                                                              repeat(){
-                            hghhhj                                 eat();
+                                                             eat();
                                                              sleep();
                                                              code();
                                                              repeat(); 
