@@ -16,7 +16,7 @@
      
    
    
-                   sss                                          function
+                                                             function
                                                              repeat(){
                                                              eat();
                                                              sleep();
