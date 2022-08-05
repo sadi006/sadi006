@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning on <strong>FrontEnd Development<strong>
 - 📫 How to reach me <a>sedismayilzade@gmail.com</a>
 
-ll
+
 <div>
   <div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
      
