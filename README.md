@@ -19,7 +19,7 @@
    
                                                              function
                                                              repeat(){
-                                                             eat();
+                          gg                                   eat();
                                                              sleep();
                                                              code();
                                                              repeat(); 
