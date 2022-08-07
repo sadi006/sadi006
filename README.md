@@ -17,7 +17,7 @@
      
    
    
-                              xx                               function
+                                                             function
                                                              repeat(){
                                                              eat();
                                                              sleep();
