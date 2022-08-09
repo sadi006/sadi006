@@ -21,7 +21,7 @@
                                                              repeat(){
                                                              eat();
                                                              sleep();
-                         ss                                    code();
+                                                             code();
                                                              repeat(); 
                                                              })();
    </div>
